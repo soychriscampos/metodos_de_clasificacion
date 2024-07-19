@@ -13,7 +13,7 @@ plt.title("Ventas vs Nómina")
 plt.xlabel("Nómina del área CDMX (en cientos de millones)")
 plt.ylabel("Ventas(en cientos de miles)")
 
-# plt.show()
+plt.show()
 
 # Ecuación de la pendiente
 # -- Obtener de "x^2" y "xy"
