@@ -13,4 +13,4 @@ Una empresa que remodela casas viejas en CDMX, con el tiempo se ha percatado de 
 
 #### Nota:
 
-Aunque se pudieron ahorrar algunos cálculos utilizando Numpy. Se solucina de esta manera planteada en "regresion_simple.py" para los fines de aprendizaje en la materia.
+Se solucina de esta manera planteada para los fines de aprendizaje en la materia.
