@@ -1,3 +1,5 @@
+_Para este ejemplo trabaja con la base de datos Iris disponible en la librería datasets._
+
 **Caso:** En el datasets la base de datos se encuentra compuesta por 150 observaciones de flores de la planta iris, las variables o atributos que se miden de cada flor son:
 
 - El tipo de flor como variable categórica, cuyas categorías son: virginica, versicolor y setosa.
